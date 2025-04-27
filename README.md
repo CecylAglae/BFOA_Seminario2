@@ -4,7 +4,6 @@ Optimización paralelizada del algoritmo de forrajeo bacteriano (BFOA) para reso
 
 **Parallel Bacterial Foraging Optimization for Multiple Sequence Alignment**
 
-```markdown
 # Algoritmo BFO Paralelo para Alineamiento de Secuencias
 
 Optimización paralelizada del algoritmo de forrajeo bacteriano (BFOA) para resolver problemas de alineamiento múltiple de secuencias biológicas.
