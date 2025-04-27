@@ -56,13 +56,11 @@ bfoa-msa/
 
 ## Licencia
 
-MIT License - Libre para uso académico y comercial
+Puedes clonar este repositorio y ejecutar el algoritmo siguiendo las instrucciones en [especificar archivo o carpeta, si es necesario].
 ```
 
-## Versión Corta para README.md
-
 ```markdown
-# Parallel BFOA for MSA
+# Parallel BFOA 
 
 Optimización paralela del algoritmo de forrajeo bacteriano para alineamiento múltiple de secuencias. Incluye:
 
@@ -73,7 +71,5 @@ Optimización paralela del algoritmo de forrajeo bacteriano para alineamiento m�
 
 ```bash
 pip install numpy biopython
-python parallel_BFOA_optimizado.py -f secuencias.fasta
+python parallel_BFOA.py -f secuencias.fasta
 ```
-Puedes clonar este repositorio y ejecutar el algoritmo siguiendo las instrucciones en [especificar archivo o carpeta, si es necesario].
-
